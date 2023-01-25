@@ -43,7 +43,7 @@ Aşağıdakileri yapmak için aşağıdaki kopyalama işlevini kullanın:
 function kopyala(/*kod buraya*/){
   /*kod buraya*/
 }
-
+console.log("ebru");
 
 /* Görev 2:
 Bir dizinin tam olarak 25 çeşit olduğunu onaylayın. İşleviniz şunları kabul etmelidir:
